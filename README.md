@@ -2,7 +2,7 @@
  * Cursando Desenvolvimento e Análise de Sistemas no Senai
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knbzbr&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knbzbr&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knbzbr&show_icons=true&theme=transparent&layout=compact)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
