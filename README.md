@@ -1,5 +1,6 @@
 # Olá, Meu Nome é Kauan Cruz Baza
- * Cursando Desenvolvimento e Análise de Sistemas no Senai
+ * Cursando Engenharia de Software - UNOESTE
+ * Formado em Análise e Desenvolvimento de Sistemas - Senai
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=knbzbr&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knbzbr&show_icons=true&theme=transparent&layout=compact)
